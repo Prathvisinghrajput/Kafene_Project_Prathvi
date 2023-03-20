@@ -1,0 +1,19 @@
+.order-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.order-table tr {
+  vertical-align: middle;
+}
+.order-table th {
+  text-align: left;
+  padding: 12px 24px;
+  font-size: 14px;
+}
+.order-table td {
+  background-color: #fff;
+  border-bottom: 4px solid #f6f7fb;
+  text-align: left;
+  padding: 12px 24px;
+  font-size: 14px;
+}
